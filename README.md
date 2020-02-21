@@ -10,10 +10,10 @@ Or you can compile them serially
 $ rmiregistry   | Windows: start rmiregistry
 
 #Then run the server program as 
-java Server
+$ java Server
 
 #Finally run the client program in third console:
-java Client
+$ java Client
 
 
 #Please contact and post the issue if some error arise
